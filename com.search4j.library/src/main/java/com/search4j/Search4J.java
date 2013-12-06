@@ -49,10 +49,7 @@ public class Search4J {
 	public int count(Search4JModel model) {
 		return this.find(model).size();
 	}
-
-	/**
-	 * Find in file
-	 */
+/*
 	public List<Search4JResult> find(Search4JModel model, File file, String encoding, Search4JCancellationEvent cancellationEvent,
 			Search4JProgressCallback progressCallback) {
 		return null;
@@ -62,10 +59,6 @@ public class Search4J {
 			Search4JProgressCallback progressCallback) {
 		return null;
 	}
-
-	/**
-	 * Find in folder
-	 */
 	public List<Search4JResult> find(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent,
 			Search4JProgressCallback progressCallback) {
 		return null;
@@ -75,5 +68,5 @@ public class Search4J {
 			Search4JProgressCallback progressCallback) {
 		return null;
 	}
-
+*/
 }
