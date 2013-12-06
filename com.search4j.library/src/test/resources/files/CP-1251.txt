@@ -1,0 +1,17 @@
+(traditional telegraph test; lacks ъ and Є) ¬ чащах юга жил бы цитрус? ƒа, но фальшивый экземпл€р!
+Would a citrus live in the thickets of the south? Yes, but only a fake one!
+(Using quasiobsolete spelling for last word to include ъ) ¬ чащах юга жил бы цитрус? ƒа, но фальшивый экземпл€ръ!
+same
+(each letter exactly once) Ёх, чужак, общий съЄм цен шл€п (юфть) Ц вдрызг!
+Hey, stranger, the general takings from prices of hats (made from a thick leather) have completely crashed!
+(each letter exactly once) Ч Ћюб€, съешь щипцы, Ч вздохнЄт мэр, Ч  айф жгуч!
+The mayor will sigh, "Eat the pliers with love; pleasure burns!"
+(Microsoft used it in fontview.exe for Cyrillic fonts without Ђжеї) —ъешь же ещЄ этих м€гких французских булок, да выпей чаю.
+SТe?Т ?e e?? ?tih mjagkih francuzskih bulok, da vypej ?aju.
+So eat more of these soft French loaves, and have some tea!
+(Used in KDE) Ўирока€ электрификаци€ южных губерний даст мощный толчок подъЄму сельского хоз€йства.
+Widespread electrification of southern guberniyas will give a powerful incentive to the rise of agriculture.
+–азъ€ренный чтец эгоистично бьЄт п€тью жерд€ми шустрого фехтовальщика.
+An enraged narrator selfishly beats a nimble fencer with five poles.
+Ќаш банк вчера же выплатил ‘.я. Ёйхгольду комиссию за ценные вещи.
+As of yesterday, our bank already remitted to F.J. Eichhold a commission payment for the valuables.
