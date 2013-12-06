@@ -62,9 +62,7 @@ public class Search4JFileSearch {
 
 			while ((line = br.readLine()) != null && (cancellationEvent == null || cancellationEvent.isNotCancelled())) {
 
-				model.setText(line);
-
-				List<Search4JResult> finds = Search4JHelper.find(model);
+				List<Search4JResult> finds = Search4JHelper.find(model, line);
 
 				if (finds.isEmpty() == false) {
 

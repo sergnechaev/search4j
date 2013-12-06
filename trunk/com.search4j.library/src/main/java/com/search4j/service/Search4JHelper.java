@@ -37,13 +37,15 @@ import com.search4j.model.Search4JResult;
 /**
  * 
  * @author Sergey.Nechaev <serg.nechaev@gmail.com>
- *
+ * 
  */
 public class Search4JHelper {
 
 	private static final Log log = LogFactory.getLog(Search4JHelper.class);
 
-	public static List<Search4JResult> find(Search4JModel model) {
+	public static List<Search4JResult> find(Search4JModel model, String text) {
+
+		model.setText(text);
 
 		List<Search4JResult> results = null;
 

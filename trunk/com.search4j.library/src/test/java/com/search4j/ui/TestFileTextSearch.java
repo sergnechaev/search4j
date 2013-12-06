@@ -23,82 +23,120 @@ SOFTWARE.
  */
 package com.search4j.ui;
 
+import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.List;
 
 import junit.framework.TestCase;
 
-import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
 
 import com.search4j.Search4J;
+import com.search4j.model.Search4JCancellationEvent;
 import com.search4j.model.Search4JModel;
+import com.search4j.model.Search4JProgressCallback;
 import com.search4j.model.Search4JResult;
 
 public class TestFileTextSearch extends TestCase {
 
-	public void testBasic() throws IOException {
+	public void testBasic() throws IOException, URISyntaxException {
 
-		String read = IOUtils.toString(this.getClass().getResourceAsStream("/files/UTF-8.txt"), "UTF-8");
+		File file = new File(this.getClass().getResource("/files/UTF-8.txt").toURI());
 
-		String[] queries = { "storks", "because the jacket", "Eĥoŝanĝo ĉiuĵaŭde", "rvíztűr", "Thursda", "traditional", "Storks", "because the JACKET", "Eĥoŝanĝo ĉiUĵaŭde", "Rvíztűr",
-				"thursda", "TRaditional" };
+		String[] queries = { "storks", "because the jacket", "Eĥoŝanĝo ĉiuĵaŭde", "rvíztűr", "Thursda", "traditional", "Storks", "because the JACKET", "Eĥoŝanĝo ĉiUĵaŭde", "Rvíztűr", "thursda",
+				"TRaditional" };
 
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, false, false, false);
 
-			List<Search4JResult> find = new Search4J().find(model);
+			SPC spc = new SPC();
 
-			assertNotNull(find);
-			assertFalse(query + ": must be not empty: " + find.toString(), find.isEmpty());
+			new Search4J().find(model, file, "UTF-8", new Search4JCancellationEvent(), spc);
 
-			Search4JResult result = find.iterator().next();
+			Search4JResult result = spc.getResult();
 
-			boolean e = StringUtils.equalsIgnoreCase(query, StringUtils.substring(read, result.getStart(), result.getEnd()));
+			boolean e = StringUtils.equalsIgnoreCase(query, StringUtils.substring(spc.getResult().getText(), result.getStart(), result.getEnd()));
 
 			assertTrue(e);
 		}
 
 	}
+	public void testMatchWholeWord() throws IOException, URISyntaxException {
 
-	public void testMatchWholeWord() throws IOException {
-
-		String read = IOUtils.toString(this.getClass().getResourceAsStream("/files/UTF-8.txt"), "UTF-8");
+		File file = new File(this.getClass().getResource("/files/UTF-8.txt").toURI());
 
 		String[] queries = { "stor", "because the jacke", "Eĥoŝanĝo ĉiuĵaŭd", "rvíztű", "Thursda", "traditiona" };
 
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, true, false, false);
-			model.setText(read);
+			
+			SPC spc = new SPC();
 
-			List<Search4JResult> find = new Search4J().find(model);
+			new Search4J().find(model, file, "UTF-8", new Search4JCancellationEvent(), spc);
 
-			assertTrue(find.isEmpty());
+//			assertTrue(find.isEmpty());
 
 		}
 
 	}
+	/*
 
-	public void testMatchCase() throws IOException {
+	public void testMatchCase() throws IOException, URISyntaxException {
 
-		String read = IOUtils.toString(this.getClass().getResourceAsStream("/files/UTF-8.txt"), "UTF-8");
+		File file = new File(this.getClass().getResource("/files/UTF-8.txt").toURI());
 
 		String[] queries = { "Storks", "because the JACKET", "Eĥoŝanĝo ĉiUĵaŭde", "Rvíztűr", "thursda", "TRaditional" };
 
 		for (String query : queries) {
 
-			Search4JModel model = new Search4JModel(query, false, true, false);
-			model.setText(read);
+			Search4JModel model = new Search4JModel(query, false, false, false);
 
-			List<Search4JResult> find = new Search4J().find(model);
+			SPC spc = new SPC();
 
-			assertNotNull(find);
+			new Search4J().find(model, file, "UTF-8", new Search4JCancellationEvent(), spc);
 
-			assertTrue(find.isEmpty());
 
 		}
 	}
+*/
 
+	private static class SPC implements Search4JProgressCallback {
+
+		int size;
+
+		int lines;
+
+		Search4JResult result;
+
+		public Search4JResult getResult() {
+			return result;
+		}
+
+		public int getSize() {
+			return size;
+		}
+
+		public int getLines() {
+			return lines;
+		}
+
+		@Override
+		public void found(Search4JResult result) {
+			size++;
+			this.result = result;
+		}
+
+		@Override
+		public void finished() {
+
+		}
+
+		@Override
+		public void currentValue(int lineNum) {
+			lines++;
+		}
+	};
 }
