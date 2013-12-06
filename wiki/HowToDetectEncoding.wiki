@@ -1,0 +1,6 @@
+#summary How to detect encoding of a text file in Java
+#labels Featured
+
+=  How to detect encoding of a text file in Java =
+
+Please, use this library to detect the encoding of the text file: https://code.google.com/p/juniversalchardet/
