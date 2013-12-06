@@ -23,6 +23,12 @@ SOFTWARE.
  */
 package com.search4j.model;
 
+/**
+ * Is used to cancel a long-running task.
+ * 
+ * @author Sergey Nechaev <serg.nechaev@gmail.com>
+ * 
+ */
 public class Search4JCancellationEvent {
 
 	private boolean cancelled;

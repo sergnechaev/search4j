@@ -29,4 +29,6 @@ public interface Search4JProgressCallback {
 
 	void finished();
 
+	void currentValue(int lineNum);
+	
 }

@@ -40,33 +40,27 @@ import com.search4j.service.Search4JHelper;
 public class Search4J {
 
 	/**
-	 * Find in text
+	 * Find occurrences in text.
 	 */
 	public List<Search4JResult> find(Search4JModel model) {
 		return Search4JHelper.find(model);
 	}
 
-	public int count(Search4JModel model) {
-		return this.find(model).size();
-	}
-/*
-	public List<Search4JResult> find(Search4JModel model, File file, String encoding, Search4JCancellationEvent cancellationEvent,
+	/**
+	 * Find occurrences in a file using the specified encoding.
+	 * 
+	 * @param model - the populated model. The "text" field will be ignored.
+	 * @param file - the file to search in.
+	 * @param encoding - the encoding of the file.
+	 * @param cancellationEvent - can be used to cancel the long-running search operation.
+	 * @param progressCallback - is used to inform the user about the statsus of the search operation. 
+	 */
+	public void find(Search4JModel model, File file, String encoding, Search4JCancellationEvent cancellationEvent,
 			Search4JProgressCallback progressCallback) {
-		return null;
 	}
 
-	public static List<Search4JResult> count(Search4JModel model, File file, String encoding, Search4JCancellationEvent cancellationEvent,
+	public void find(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent,
 			Search4JProgressCallback progressCallback) {
-		return null;
-	}
-	public List<Search4JResult> find(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent,
-			Search4JProgressCallback progressCallback) {
-		return null;
 	}
 
-	public List<Search4JResult> count(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent,
-			Search4JProgressCallback progressCallback) {
-		return null;
-	}
-*/
 }
