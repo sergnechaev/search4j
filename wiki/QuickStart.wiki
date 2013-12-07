@@ -1,6 +1,0 @@
-#summary Search4J Quick Start
-#labels Featured
-
-= Search4J Quick Start =
-
-== Search in Strings ==
