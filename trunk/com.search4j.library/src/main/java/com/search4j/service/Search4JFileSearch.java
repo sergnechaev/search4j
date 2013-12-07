@@ -68,6 +68,8 @@ public class Search4JFileSearch {
 
 					for (Search4JResult find : finds) {
 
+						find.setFile(file);
+
 						find.setLineNum(lineNum);
 
 						find.setText(line);
@@ -91,7 +93,7 @@ public class Search4JFileSearch {
 
 		} catch (Exception e) {
 
-			log.error("Error: ", e);
+			log.error("Error: " + file, e);
 
 		} finally {
 
