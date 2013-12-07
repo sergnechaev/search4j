@@ -26,6 +26,9 @@ package com.search4j;
 import java.io.File;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.filefilter.IOFileFilter;
+
 import com.search4j.model.Search4JCancellationEvent;
 import com.search4j.model.Search4JModel;
 import com.search4j.model.Search4JProgressCallback;
@@ -66,7 +69,61 @@ public class Search4J {
 		new Search4JFileSearch().find(model, file, encoding, cancellationEvent, progressCallback);
 	}
 
+	/**
+	 * Find occurrences in a file using the specified encoding.
+	 * 
+	 * @param model
+	 *            - the populated model. The "text" field will be ignored.
+	 * @param file
+	 *            - the file to search in.
+	 * @param recursively‎
+	 *            whether to search in child subdirectories.
+	 * @param encoding
+	 *            - the encoding of the file.
+	 * @param cancellationEvent
+	 *            - can be used to cancel the long-running search operation.
+	 * @param progressCallback
+	 *            - is used to inform the user about the statsus of the search
+	 *            operation.
+	 */
 	public void find(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent, Search4JProgressCallback progressCallback) {
+
+		if (false == recursively‎) {
+			for (File file : folder.listFiles()) {
+				if (file.isFile() && file.canRead()) {
+					find(model, file, encoding, cancellationEvent, progressCallback);
+				}
+			}
+		} else {
+
+			FileUtils.iterateFilesAndDirs(folder, new IOFileFilter() {
+
+				@Override
+				public boolean accept(File dir, String name) {
+					System.out.println("ff dir: " + dir + ", name: " + name);
+					return true;
+				}
+
+				@Override
+				public boolean accept(File file) {
+					System.out.println("ff file: " + file);
+					return true;
+				}
+			}, new IOFileFilter() {
+
+				@Override
+				public boolean accept(File dir, String name) {
+					System.out.println("df dir: " + dir + ", name: " + name);
+					return true;
+				}
+
+				@Override
+				public boolean accept(File file) {
+					System.out.println("df file: " + file);
+					return true;
+				}
+			});
+		}
 	}
 
 }

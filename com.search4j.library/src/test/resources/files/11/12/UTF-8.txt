@@ -1,0 +1,523 @@
+(traditional telegraph test; lacks ъ and ё) В чащах юга жил бы цитрус? Да, но фальшивый экземпляр!
+Would a citrus live in the thickets of the south? Yes, but only a fake one!
+(Using quasiobsolete spelling for last word to include ъ) В чащах юга жил бы цитрус? Да, но фальшивый экземпляръ!
+same
+(each letter exactly once) Эх, чужак, общий съём цен шляп (юфть) – вдрызг!
+Hey, stranger, the general takings from prices of hats (made from a thick leather) have completely crashed!
+(each letter exactly once) — Любя, съешь щипцы, — вздохнёт мэр, — Кайф жгуч!
+The mayor will sigh, "Eat the pliers with love; pleasure burns!"
+(Microsoft used it in fontview.exe for Cyrillic fonts without «же») Съешь же ещё этих мягких французских булок, да выпей чаю.
+S’eš’ že eŝë ètih mjagkih francuzskih bulok, da vypej čaju.
+So eat more of these soft French loaves, and have some tea!
+(Used in KDE) Широкая электрификация южных губерний даст мощный толчок подъёму сельского хозяйства.
+Widespread electrification of southern guberniyas will give a powerful incentive to the rise of agriculture.
+Разъяренный чтец эгоистично бьёт пятью жердями шустрого фехтовальщика.
+An enraged narrator selfishly beats a nimble fencer with five poles.
+Наш банк вчера же выплатил Ф.Я. Эйхгольду комиссию за ценные вещи.
+As of yesterday, our bank already remitted to F.J. Eichhold a commission payment for the valuables.
+Arabic[edit]
+صِف خَلقَ خَودِ كَمِثلِ الشَمسِ إِذ بَزَغَت — يَحظى الضَجيعُ بِها نَجلاءَ مِعطارِ (A poem by Al Farāhīdi)
+هلا سكنت بذي ضغثٍ فقد زعموا — شخصت تطلب ظبياً راح مجتازا
+اصبر على حفظ خضر واستشر فطنا، وزج همك في بغداذ منثملا
+نصٌّ حكيمٌ لهُ سِرٌّ قاطِعٌ وَذُو شَأنٍ عَظيمٍ مكتوبٌ على ثوبٍ أخضرَ ومُغلفٌ بجلدٍ أزرق
+naṣun ḥakymun lahu syrun qāṭiʿun wa ḏu šānin ʿẓymin maktubun ʿala ṯubin aẖḍra wa muġalafun biǧildin azraq
+A wise text which has an absolute secret and great importance, written on a green cloth and covered with blue leather (it has a riddle built into it)
+ابجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ
+أبجد هوز ترتيب الحروف العبرية والعربية من اللغات الساميَّة
+
+Azeri[edit]
+Zəfər, jaketini də papağını da götür, bu axşam hava çox soyuq olacaq.
+Zafer (male name), take your jacket and cap, it will be very cold tonight.
+
+Bulgarian[edit]
+Ах чудна българска земьо, полюшквай цъфтящи жита.
+Wonderful Bulgarian land, shake the blooming wheat-fields
+Жълтата дюля беше щастлива, че пухът, който цъфна, замръзна като гьон.
+The yellow quince was happy that the fluff, which bloomed, froze like sole-leather
+За миг бях в чужд плюшен скърцащ фотьойл. (Used for font samples by the Macintosh, in the localized System 7)
+For a moment I was in someone else's plush squeaking armchair
+Вкъщи не яж сьомга с фиде без ракийка и хапка люта чушчица!
+At home do not eat salmon with soup noodles without rakia and a bit of hot paprika!
+Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.
+А little fluffy young rabbit ran under a southern tree blooming in blue
+Шугав льохман, държащ птицечовка без сейф и ютия.
+Я, пазачът Вальо уж бди, а скришом хапва кюфтенца зад щайгите.
+Oh, Valio the Guard watched and secretly ate meatballs behind crates.
+Хълцайки много, въздесъщият позьор, Юрий жабока, фучеше.
+Гномът Доцьо приключи спящ в шейна за жаби.
+Dotsyo the Gnome ended up sleeping in a carriage for frogs.
+Щиглецът се яде само пържен в юфка без чушки и хвойна.
+Goldfinch only eat fried noodles without peppers and juniper.
+Фучейки и хълцайки, кьоравият грухтящ шопар жадно стъпка зюмбюлите
+Rushing and whimpering, the grunting blind boar hungrily stepped the Hyacinths
+Хълцащ змей плюе шофьор стигнал чуждия бивак.
+A hiccuping dragon spits upon a driver reaching someone else's campsite.
+Щурчо Цоньо хапваше ловджийско кюфте с бяла гъмза.
+The cricket Tsonyo was nibbling a hunter-style meatball with white Gamza wine.
+Catalan[edit]
+(with ç) Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!
+Young chef, bring whisky with fifteen hydrogen ice cubes, darn!
+Aqueix betzol, Jan, comprava whisky de figa
+That idiot, Jan, was buying fig whisky
+Zel de grum: quetxup, whisky, cafè, bon vi; ja!
+Coi! quinze jans golafres de Xàtiva, beuen whisky a pams
+Croatian[edit]
+Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje. (Used by Microsoft Office as sample text for Croatian language.)
+The overweight little schoolboy with a bike is holding hops and fine cotton in the pocket of his attire.
+Czech[edit]
+Nechť již hříšné saxofony ďáblů rozezvučí síň úděsnými tóny waltzu, tanga a quickstepu. (All 42 letters of the Czech alphabet, 72 letters in total)
+Let the sinful saxophones of devils finally make the hall resonate with the frightful tones of waltz, tango and quickstep.
+Příšerně žluťoučký kůň úpěl ďábelské ódy. (All the non-ASCII letters of the Czech alphabet – popular sentence for character sets testing)
+Awfully yellowish horse was groaning devilish odes.
+Hleď, toť přízračný kůň v mátožné póze šíleně úpí.
+Behold, tis the eerie horse in tottering affectation groaning like crazy.
+Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů.
+Particularly insidious apprentice with dimples is running along the zone of hives.
+Loď čeří kýlem tůň obzvlášť v Grónské úžině.
+A vessel ripples a pool by its kiel, especially in the strait of Greenland.
+Ó, náhlý déšť již zvířil prach a čilá laň teď běží s houfcem gazel k úkrytům.
+Oh, sudden rain has already whirled the dust and a spry doe now gallops with a flock of gazelles for the shelter.
+Danish[edit]
+(Each letter exactly once) Høj bly gom vandt fræk sexquiz på wc
+Tall shy groom won dirty sex quiz on W.C.
+Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.
+The quiz contestants ate strawberry with cream while Walter the circus clown played the xylophone.
+Divehi[edit]
+(Each letter exactly once) ވިލިފުށީ ބާރްތްޑޭ ޕާޓީގެ ރަމްޒަކީ ޗިޅިޔާޖެހި އަސްދޫންޏޭ
+ބޮޑު ބުޅާ ދުވެގޮސް ސަޅި ޒުވާން މޮޔަ މީދާ ވައްޓައި މަރާ ޗިސްކޮށް ފުންޏަކައް ޖަހައްޕޯ
+Dutch[edit]
+Lynx c.q. vos prikt bh: dag zwemjuf! (Perfect pangram, 26 letters)
+Lynx , in this case fox, stings bra: hello swim teacher!
+Doch Bep, flink sexy qua vorm, zwijgt
+But Bep, thoroughly sexy of shape, keeps silent
+Sexy qua lijf, doch bang voor 't zwempak
+Sexy of body, yet scared of the swimsuit
+Pa's wijze lynx bezag vroom het fikse aquaduct
+Dad's wise lynx piously observed the sturdy aqueduct.
+Filmquiz bracht knappe ex-yogi van de wijs
+Film Quiz startled handsome ex-yogi
+Max boft: z'n vrouw is qua type degelijk
+Max is lucky: his wife's type is right
+Several Others: "Lex bederft Uw quiz met typisch vakjargon", "Sexy dame bezorgt chique volkje fijne wip".
+Dzongkha[edit]
+ཨ་ཡིག་དཀར་མཛེས་ལས་འཁྲུངས་ཤེས་བློའི་གཏེར༎ ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན༎ ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་དབྱངསམཐུས༎ མཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་འགྱུར་ཅིག།
+Esperanto[edit]
+Eble ĉiu kvazaŭ-deca fuŝĥoraĵo ĝojigos homtipon.
+Maybe every quasi-fitting bungle-choir makes a human type happy.
+Laŭ Ludoviko Zamenhof bongustas freŝa ĉeĥa manĝaĵo kun spicoj.
+According to Ludwig Zamenhof, fresh Czech food with spices tastes good.
+Estonian[edit]
+Põdur Zagrebi tšellomängija-följetonist Ciqo külmetas kehvas garaažis
+Ill-healthy cellist-feuilletonist Ciqo from Zagreb was being cold in a poor garage. (used in KDE font selection).
+See väike mölder jõuab rongile hüpata
+This small miller is able to jump to train (used in localized version of Microsoft Word in Office XP, contains all non-foreign letters)
+Eesti[edit]
+A new Estonian Pangram:
+Jubedalt möirgav lõukoer hüppas tänaval (Terribly roaring lion jumped on street)
+Finnish[edit]
+(A perfect pangram which does not include characters only found in foreign or loanwords (b, c, f, q, w, x, z, å)): Törkylempijävongahdus
+Muckysnogger booty-call.
+(Without the foreign characters c, q, x, z, w, å) Albert osti fagotin ja töräytti puhkuvan melodian.
+Albert bought a bassoon and blasted a puffing melody. (used in older versions of Word Perfect).
+(Without the foreign characters b, c, f, q, w, x, z, å) Lorun sangen pieneksi hyödyksi jäivät suomen kirjaimet.
+The quite small benefit of the rhyme was the letters of Finnish.
+Hyvän lorun sangen pieneksi hyödyksi jäi suomen kirjaimet.
+Modification of the previous one where the first letter is repeated (in the case the capital first letter is used but all the small letters are needed): The quite small benefit of the good rhyme was the letters of Finnish.
+(All characters, including foreign ones): Fahrenheit ja Celsius yrjösivät Åsan backgammon-peliin, Volkswagenissa, daiquirin ja ZX81:n yhteisvaikutuksesta.
+Fahrenheit and Celsius threw up on Åsa's Backgammon board, in a Volkswagen, due to the coeffect of daiquiri and a ZX81.
+(All characters, including foreign ones): Charles Darwin jammaili Åken hevixylofonilla Qatarin yöpub Zeligissä.
+Charles Darwin was jamming on Åke's heavy metal xylophone in the Qatar night pub Zelig.
+(All characters, including foreign ones): Wieniläinen sioux'ta puhuva ökyzombie diggaa Åsan roquefort-tacoja.
+The Sioux-speaking filthy rich zombie from Vienna digs Åsa's Roquefort tacos.
+French[edit]
+Buvez de ce whisky que le patron juge fameux. (36)
+Drink some of this whisky which the boss finds excellent.
+Portez ce vieux whisky au juge blond qui fume
+Take this old whisky to the blond smoking judge
+Bâchez la queue du wagon-taxi avec les pyjamas du fakir
+Tarpaulin up the taxi-railcar tail with the fakir’s pajamas
+Voyez le brick géant que j'examine près du wharf
+See the giant brig which I examine near the wharf [the person is looking at a ship]
+Voix ambiguë d'un cœur qui au zéphyr préfère les jattes de kiwi
+Ambiguous voice of a heart which prefers kiwis' bowls to a zephyr
+Monsieur Jack, vous dactylographiez bien mieux que votre ami Wolf
+Mister Jack, you type much better than your friend Wolf [was used in the Swiss army to check the keyboard of typewriters before teletransmission]
+West Frisian[edit]
+Alve bazige froulju wachtsje op dyn komst
+Eleven bossy women await your arrival
+German[edit]
+(no umlauts or ß): Sylvia wagt quick den Jux bei Pforzheim
+Sylvia dares quickly the joke near Pforzheim
+(no umlauts or ß): Franz jagt im komplett verwahrlosten Taxi quer durch Bayern
+Franz chases in the completely shabby cab straight through Bavaria
+(with umlauts and ß): Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich
+Victor chases twelve boxers across the great dam of Sylt
+(with umlauts and ß, each letter exactly once, according to the pre-1996 spelling rules): "Fix, Schwyz!" quäkt Jürgen blöd vom Paß
+"Quick, Schwyz!" Jürgen squawks zanily from the pass
+"Falsches Üben von Xylophonmusik quält jeden größeren Zwerg" (used by KDE)
+Wrong practising of xylophone music bothers every larger dwarf
+Greek[edit]
+Τάχιστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός
+Tákhistè alôpèx vaphês psèménè gè, draskelízei ypér nòthroý kynós
+The quick brown fox jumps over the lazy dog (where brown is assigned by "colour of roasted earth")
+Ξεσκεπάζω τὴν ψυχοφθόρα βδελυγμία.
+Xeskepazó tin psychofthóra vdelygmía.
+I uncover the soul-destroying abhorrence.
+Ζαφείρι δέξου πάγκαλο, βαθῶν ψυχῆς τὸ σῆμα.
+Receive an excellent sapphire, denoting profundity of soul.
+Notable pangrams found occurring in ancient Greek literature include:
+Homeric Hymn to Hermes 22-24
+Pindar, Olympian 6 21-24
+Aeschylus, Agamemnon 439-444
+Euripides, Alcestis 169-172, Hercules 927-930, Bacchae 719b-723a
+Isaeus, De Hagnia, section 31 (ἐλέλυθεν...λήψεσθαι)
+Lycurgus, Against Leocrates 100.3-6
+Lysias 12.93.3-5
+Thucydides, from the last four words of 4.115.2 through the first ten words of 4.115.3
+Hebrew[edit]
+דג סקרן שט בים מאוכזב ולפתע מצא חברה
+dg sqrn šṭ bjM mʾwkzb wlptʿ mṣʾ ḥbrh
+(A curious fish sailed the sea disappointedly, and suddenly found company)
+כך התרסק נפץ על גוזל קטן, שדחף את צבי למים
+kk htrsq npṣ ʿl gwzl qṭn, šdḥp ʾt ṣbj lmjm
+An explosive crashed into a small chick, which pushed my turtle into the water. (Includes all medial and final forms, here indicated by bold letters.)
+שפן אכל קצת גזר בטעם חסה, ודי.
+špn ʾkl qṣt gzr bṭʿm ḥsh, wdj
+(A hyrax ate some lettuce flavored carrot and that's it)
+Each letter occurs exactly once.
+עטלף אבק נס דרך מזגן שהתפוצץ כי חם
+(A "dust bat" escaped through the air conditioner, which exploded due to the heat)
+All 22 in the Hebrew alphabet with all medial and final forms
+או הנסה אלהים, לבוא לקחת לו גוי מקרב גוי, במסת באתת ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה, ובמוראים גדלים: ככל אשר-עשה לכם יהוה אלהיכם, במצרים—לעיניך (Deuteronomy 4:34)
+לכן חכו לי נאם יהוה ליום קומי לעד, כי משפטי לאסף גוים לקבצי ממלכות, לשפך עליהם זעמי כל חרון אפי, כי באש קנאתי תאכל כל הארץ (Zephaniah 3:8 – the only verse in the Hebrew Bible that contains all medial forms of the letters plus all final forms)
+Hungarian[edit]
+Jó foxim és don Quijote húszwattos lámpánál ülve egy pár bűvös cipőt készít.
+My good foxterrier and don Quixote are making a pair of magic shoes by a 20-watt lamp.
+Icelandic[edit]
+Kæmi ný öxi hér, ykist þjófum nú bæði víl og ádrepa.
+If a new axe were here, thieves would feel increasing deterrence and punishment.
+(each letter exactly once) Svo hölt, yxna kýr þegði jú um dóp í fé á bæ.
+A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm.
+Indonesian[edit]
+Muharjo seorang xenofobia universal yang takut pada warga jazirah, contohnya Qatar.
+Muharjo is a universal xenophobic who fears the peninsula residents, such as Qatar.
+Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Alquranmu.
+I saw a photo of Hamengkubuwono XV along with six beautiful ancient zebra which fell from your Koran.
+Irish[edit]
+D'fhuascail Íosa Úrmhac na hÓighe Beannaithe pór Éava agus Ádhaimh
+D'ḟuascail Íosa Úrṁac na hÓiġe Beannaiṫe pór Éaḃa agus Áḋaiṁ
+Jesus, Son of the blessed Virgin, redeemed the seed of Eve and Adam.
+Ċuaiġ bé ṁórṡáċ le dlúṫspád fíorḟinn trí hata mo ḋea-ṗorcáin ḃig
+A greatly satisfied woman went with a truly white dense spade through the hat of my good little well-fattened pig (uses both regular and lenited (with dot above) letters)
+Italian[edit]
+Pangrams in Italian normally omit the foreign letters j, k, w, x, and y.
+
+Quel fez sghembo copre davanti
+That slanted fez covers the front.
+Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.
+But the fox with her leap has reached the still Fido. [*"Fido" is a name commonly given to dogs.*]
+Quel vituperabile xenofobo zelante assaggia il whisky ed esclama: alleluja!
+That blameworthy, zealous xenophobe tastes his whisky and exclaims: Alleluja!
+Pranzo d'acqua fa volti sghembi.
+Lunch of water makes lopsided faces.
+O templi, quarzi, vigne, fidi boschi!
+O temples, quartzes, vines, faithful woods!
+Che tempi brevi, zio, quando solfeggi.
+Such short times, uncle, when you sol-fa.
+Qualche notizia pavese mi fa sbadigliare.
+Some news from Pavia makes me yawn.
+In quel campo si trovan funghi in abbondanza.
+In that field, mushrooms are to be found in abundance.
+Qualche vago ione tipo zolfo, bromo, sodio.
+Some vague ions, like sulfur, bromine, sodium.
+Berlusconi? Quiz, tv, paghe da fame. (Umberto Eco)[4]
+Tv? Quiz, Br, Flm, Dc... Oh, spenga! (Umberto Eco, 1979, without foreign letters)
+Japanese[edit]
+Since there are tens of thousands of kanji characters, Japanese pangrams are ones containing all kana.
+
+Iroha Uta
+いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす（ん）
+irohanihoheto chirinuruwo wakayotareso tsunenaramu uwinookuyama kefukoete asakiyumemishi yehimosesu(n)
+色は匂へど 散りぬるを 我が世誰ぞ 常ならむ 有為の奥山 今日越えて 浅き夢見じ 酔ひもせず（ん）
+* The poem Iroha uses all 47 classical kana characters exactly once, and it comes in the form of a poem. (The characters ゐ and ゑ are obsolete in modern Japanese.) Iroha is so classically entrenched that any modern construction of a Japanese pangram in classical form is called iroha-uta.
+Tori Naku Uta
+とりなくこゑす ゆめさませ みよあけわたる ひんかしを そらいろはえて おきつへに ほふねむれゐぬ もやのうち
+torinakukowesu yumesamase miyoakewataru hinkashiwo sorairohaete okitsuheni hofunemurewinu moyanōchi.
+鳥啼く声す 夢覚ませ 見よ明け渡る 東を 空色栄えて 沖つ辺に 帆船群れゐぬ 靄の中
+* Awaken from dreaming to the voice of the crying bird and see the coming daylight turning the east sky-blue; shrouded in mist is a flock of ships on the open sea
+Ametsuchi No Uta
+あめ つち ほし そら / やま かは みね たに / くも きり むろ こけ / ひと いぬ うへ すゑ / ゆわ さる おふ せよ / えのえを なれ ゐて
+天 地 星 空 / 山 川 峰 谷 / 雲 霧 室 苔 / 人 犬 上 末 / 硫黄 猿 生ふ 為よ / 榎の 枝を 馴れ 居て
+Taini no Uta
+たゐにいて なつむわれをそ きみめすと あさりおひゆく やましろの うちゑへるこら もはほせよ えふねかけぬ
+田居に出で 菜摘むわれをぞ 君召すと 求食り追ひゆく 山城の 打酔へる子ら 藻葉干せよ え舟繋けぬ
+Javanese[edit]
+꧋ ꦲꦤꦕꦫꦏ꧈ ꦢꦠꦱꦮꦭ꧈ ꦥꦝꦗꦪꦚ꧈ ꦩꦒꦧꦛꦔ꧉
+Hanacaraka, datasawala, padhajayanya, magabathanga.
+There (were) two messengers; (they) had animosity (among each other); (they were) equally powerful (in fight); here are the corpses.
+This poem is used as the ordering of the Javanese script.
+This poem is a perfect pangram, which means there is only one instance of each letter.
+Klingon[edit]
+     [qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It]
+Because of your apparent audacity the depressed conqueror is willing to fight you.
+Korean[edit]
+키스의 고유조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다.
+Kiseu-ui goyujogeoneun ipsulkkiri mannaya hago teukbyeolhan gisureun pilyochi antha.
+The essential condition for a kiss is that lips meet and there is no special technique required.
+In current usage, Hangul has 14 simple consonant letters, 6 simple vowel letters, and 4 iotized vowel letters; there are also 5 double consonant letters, 11 consonant clusters, and 11 diphthongs, made from combinations of the simple consonants or simple vowels. Of these, the above phrase contains all the simple consonant letters, simple vowel letters, and iotized vowel letters, along with 1 double consonant letter (ㄲ "gg"), 1 consonant cluster (ㄶ "nh"), and one diphthong (ㅢ "ui").
+Latin[edit]
+Sic fugiens, dux, zelotypos, quam Karus haberis.[5]
+Thus fleeing, O leader, you are regarded with jealousy like Karus.
+Includes the letters k, y and z, used for words derived from Greek, but not the letters j, v or w, consonants that evolved from the vowels i and u.
+Latvian[edit]
+Muļķa hipiji mēģina brīvi nogaršot celofāna žņaudzējčūsku.
+Silly hippies try to freely taste the cellophane python.
+Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.
+Glass shack gnomes steal Bach piano covers while inebriated.
+Četri psihi faķīri vēlu vakarā zāģēja guļbūvei durvis, fonā šņācot mežam.
+Late at night, four psycho conjurors were sawing the doors of a log cabin as the wind hummed in the background.
+Lithuanian[edit]
+Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą
+Incurving fencer sword sparkled and perforated a round watermelon
+Lojban[edit]
+.o'i mu xagji sofybakni cu zvati le purdi
+Watch out, five hungry Soviet-cows are in the garden!
+Macedonian[edit]
+Ѕидарски пејзаж: шугав билмез со чудење џвака ќофте и кељ на туѓ цех.
+A mason's landscape: a mangy fool wonderingly munches on meatball and kale at someone else's expense.
+Бучниов жолт џин ѕида куќа со фурна меѓу полиња за цреши, хмељ и грозје.
+[This] noisy yellow giant is building a house with an oven in the midst of fields of cherries, hops and grapes.
+Долг Џош, сторив женење, црн ѕид! Фрчат хмељ, ќумбе, ѓупки, зајак.
+Long Josh, I've done a reaping, a black wall! Hops, Gypsy women, rabbit are whizzing.
+Мојот дружељубив коњ со тих галоп фаќа брз џиновски глушец по туѓо ѕидче.
+My friendly horse with a quiet gallop catches a quick giant mouse over someone else's little wall.
+Mapudungun[edit]
+(Ragileo alphabet) Gvxam mincetu apocikvyeh: ñizol ce mamvj ka raq kuse bafkeh mew
+Tale under the full moon: the chief chemamull and the clay old woman at the lake/sea.
+Mongolian[edit]
+Щётканы фермд пийшин цувъя. Бөгж зогсч хэльюү.
+Let's echelon fireplaces in brush farm. Ring says standing.
+Myanmar[edit]
+သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ္ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။
+The genius from Sri Lanka read the formula of elixir of life thoroughly in the almond tree next to Zalun market.
+Norwegian[edit]
+Since Norwegian orthography does not include c, q, w, x or z, except in foreign borrowings that haven't been naturalised, the possible pangrams including all the 29 letters of the Norwegian alphabet will require using two or more words with a distinctly foreign spelling.
+
+Vår sære Zulu fra badeøya spilte jo whist og quickstep i min taxi.
+Our strange Zulu from the bathing island actually played whist and quickstep in my taxi.
+Høvdingens kjære squaw får litt pizza i Mexico by.
+The chief's dear squaw gets a little pizza in Mexico City.
+IQ-løs WC-boms uten hørsel skjærer god pizza på xylofon.
+IQ-less WC-bum without hearing cuts good pizza on xylophone.
+Sær golfer med kølle vant sexquiz på wc i hjemby.
+Strange golfer with club won sex quiz on W.C. in hometown.
+Jeg begynte å fortære en sandwich mens jeg kjørte taxi på vei til quiz
+I started to devour a sandwich while I was riding a taxi on the way to the quiz
+Polish[edit]
+(each letter exactly once) Jeżu klątw, spłódź Finom część gry hańb! (by Stanisław Barańczak)
+O hedgehog of curses, generate for the Finns a part of the game of ignominies!
+(each letter exactly once) Pójdźże, kiń tę chmurność w głąb flaszy!
+Go, cast this melancholy into the depth of a bottle!
+(each letter exactly once) Mężny bądź, chroń pułk twój i sześć flag.
+Be brave, protect your regiment and six flags.
+(each letter exactly once) Filmuj rzeź żądań, pość, gnęb chłystków!
+Film the slaughter of demands, abstain from food, oppress the greenhorns!
+Ich dalekopis fałszuje, gdy próby QXV nie wytrzymuje.
+Their teleprinter misprints, if it does not stand the QXV test.
+(each letter exactly once) Pchnąć w tę łódź jeża lub ośm skrzyń fig.
+To push a hedgehog or eight crates of figs into this boat. (ośm – the original form of the numeral osiem)
+(each letter exactly once) Dość gróźb fuzją, klnę, pych i małżeństw!
+"Enough of these threats with the shotgun," swear I, "haughtinesses and marriages!"
+(each letter exactly once) Pójdź w loch zbić małżeńską gęś futryn!
+Go to the dungeon to batter the marital goose of doorframes!
+(each letter exactly once) Chwyć małżonkę, strój bądź pleśń z fugi.
+Seize your wife, the garment, or the mold from the grout.
+Koń i żółw grali w kości z piękną ćmą u źródła.
+A horse and a tortoise played dice with a beautiful moth near the spring.
+Portuguese[edit]
+without diacritics
+Um pequeno jabuti xereta viu dez cegonhas felizes. (BP)
+A curious little tortoise saw ten happy storks.
+Blitz prende ex-vesgo com cheque fajuto. (BP)
+Cop arrests ex-cross-eye with fake check in a checkpoint.
+Gazeta publica hoje no jornal uma breve nota de faxina na quermesse. (BP)
+The journalists publish today at the newspaper a short note about the cleaning at the kirmiss.
+Zebras caolhas de Java querem passar fax para moças gigantes de New York. (BP)
+One-eyed zebras from Java want to fax for giant ladies from New York.
+with diacritics
+Luís argüia à Júlia que «brações, fé, chá, óxido, pôr, zângão» eram palavras do português.
+Luís argued to Júlia that “big arms, faith, tea, oxide, to put, bee” were Portuguese words.
+À noite, vovô Kowalsky vê o ímã cair no pé do pingüim queixoso e vovó põe açúcar no chá de tâmaras do jabuti feliz. (BP)
+At night, grandpa Kowalsky sees the magnet falling on the complaining penguin's foot and grandma puts sugar in the happy tortoise's date tea.
+Romanian[edit]
+Muzicologă în bej vând whisky și tequila, preț fix.
+(Female) musicologist in beige, sells whisky and tequila, fixed price.
+Bând whisky, jazologul șprițuit vomă fix în tequila.
+Drinking whisky, the drunken jazzman threw up right in the tequila.
+Ex-sportivul își fumează jucăuș țigara bând whisky cu tequila.
+The ex-sportsman playfully smokes his cigarette, drinking whisky with tequila.
+Înjurând pițigăiat, zoofobul comandă vexat whisky și tequila.
+Swearing in high pitch, the zoophobic man vexedly ordered whisky and tequila.
+Russian[edit]
+(traditional telegraph test; lacks ъ and ё) В чащах юга жил бы цитрус? Да, но фальшивый экземпляр!
+Would a citrus live in the thickets of the south? Yes, but only a fake one!
+(Using quasiobsolete spelling for last word to include ъ) В чащах юга жил бы цитрус? Да, но фальшивый экземпляръ!
+same
+(each letter exactly once) Эх, чужак, общий съём цен шляп (юфть) – вдрызг!
+Hey, stranger, the general takings from prices of hats (made from a thick leather) have completely crashed!
+(each letter exactly once) — Любя, съешь щипцы, — вздохнёт мэр, — Кайф жгуч!
+The mayor will sigh, "Eat the pliers with love; pleasure burns!"
+(Microsoft used it in fontview.exe for Cyrillic fonts without «же») Съешь же ещё этих мягких французских булок, да выпей чаю.
+S’eš’ že eŝë ètih mjagkih francuzskih bulok, da vypej čaju.
+So eat more of these soft French loaves, and have some tea!
+(Used in KDE) Широкая электрификация южных губерний даст мощный толчок подъёму сельского хозяйства.
+Widespread electrification of southern guberniyas will give a powerful incentive to the rise of agriculture.
+Разъяренный чтец эгоистично бьёт пятью жердями шустрого фехтовальщика.
+An enraged narrator selfishly beats a nimble fencer with five poles.
+Наш банк вчера же выплатил Ф.Я. Эйхгольду комиссию за ценные вещи.
+As of yesterday, our bank already remitted to F.J. Eichhold a commission payment for the valuables.
+Scottish Gaelic[edit]
+Mus d'fhàg Cèit-Ùna ròp Ì le ob.
+Before Kate-Una left the Iona cattle auction with hops.
+Serbian[edit]
+(also applies to Croatian and Bosnian)
+
+Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje.
+The overweight little schoolboy with a bike is holding hops and fine cotton in the pocket of his attire.
+Fin džip, gluh jež i čvrst konjić dođoše bez moljca.
+A nice jeep, a deaf hedgehog and a tough horse came without a moth.
+Љубазни фењерџија чађавог лица хоће да ми покаже штос.
+Ljubazni fenjerdžija čađavog lica hoće da mi pokaže štos.
+A kind lamplighter with grimy face wants to show me a stunt.
+Ајшо, лепото и чежњо, за љубав срца мога дођи у Хаџиће на кафу.
+Ajšo, lepoto i čežnjo, za ljubav srca moga dođi u Hadžiće na kafu.
+Aicha, (you that are my) beauty and longing, for the love of my heart, come to (the town of) Hadžići for a cup of coffee.
+Slovak[edit]
+Kŕdeľ ďatľov učí koňa žrať kôru. (contains only all accented letters except š)
+A flock of woodpeckers teach a horse to feed on bark.
+Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.
+A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat (This is a modified sentence that not only contains modified letters with diacritics but also those without)
+Even in the expansion, c is missing, only occurring as part of the digraph ch, which is a separate letter. Also f g j l q w x as well as accented vowels á ó and unaccented y.
+
+Slovenian[edit]
+Hišničin bratec vzgaja polže pod fikusom.
+The little brother of the [female] concierge cultivates snails under the ficus.
+Besni dirkač iz formule žuga cehu poštarjev.
+Out of the racing car, the furious racer threatens [with the waving of his index finger] a guild of postmen.
+Fučka se mi hladna goveja žolca brez pršuta.
+I don't care [pretty offensive construction] for the cold bovine aspic without smoked ham (prosciutto).
+Šerif bo za vajo spet kuhal domače žgance.
+For an exercise, sheriff will again make home-made mush (žganci).
+Piškur molče grabi fižol z dna cezijeve hoste.
+Lambry silently grasps beans from the bottom of caesium forest.
+V kožuščku hudobnega fanta stopiclja mizar. (Used by Microsoft Word 2002 as sample text for Slovene language.)
+A cabinetmaker steps lightly through a malicious boy's fur coat.
+Spanish[edit]
+(with ñ and diacritics) El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja. (Used in Windows as sample text)
+The quick Hindu bat was happily eating golden thistle and kiwi. The stork was playing the saxophone behind the straw arena.
+(with ch, ñ, rr and ll) El pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío; añoraba a su querido cachorro.
+Wenceslao the penguin traveled kilometers under exhaustive rain and cold; he longed for his dear puppy.
+Jovencillo emponzoñado de whisky: ¡qué figurota exhibe!
+Whisky-intoxicated youngster – what a figure he's showing!
+Ese libro explica en su epígrafe las hazañas y aventuras de Don Quijote de la Mancha en Kuwait.
+That book explains in its epigraph the deeds and adventures of Don Quijote de la Mancha in Kuwait.
+Queda gazpacho, fibra, látex, jamón, kiwi y viñas.
+There are still gazpacho, fibre, latex, ham, kiwi and vineyards.
+Whisky bueno: ¡excitad mi frágil pequeña vejez!
+Good whisky, excite my frail, little old age!
+Es extraño mojar queso en la cerveza o probar whisky de garrafa.
+It is strange to dip cheese in beer or to try a whisky out of a carafe.
+Swedish[edit]
+(lacks q, x and z, old spelling 'hw') Flygande bäckasiner söka hwila på mjuka tuvor.
+Flying snipes seek rest on soft tufts [of grass].
+(each letter exactly once) Yxskaftbud, ge vår WC-zonmö IQ-hjälp.
+Axe handle courier, give our WC zone maiden IQ help.
+(each letter once, old spelling 'qv', lacks foreign letter 'w') Gud hjälpe Zorns mö qvickt få byxa.
+God help Zorn's maiden get trousers quickly.
+Thai[edit]
+เป็นมนุษย์สุดประเสริฐเลิศคุณค่า กว่าบรรดาฝูงสัตว์เดรัจฉาน จงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ
+bpenM maH nootH sootL bpraL saehR ritH leertF khoonM khaaF gwaapL raawnM daaM fuungR satL daehM ratH chaanR johngM faaL fanM phatH naaM wiH chaaM gaanM aL yaaF laangH phlaanR reuuM khenL khaaF beeM thaaM khraiM maiF theuuR tho:htF gro:htL chaaengF satH heutH hatH daaL hatL aL phaiM meuuanR geeM laaM atL chaaM saiR bpaL dtiL batL bpraL phriH dtikL daL gamM nohtL jaiM phuutF jaaM haiF jaH jaH jaaR jaaR naaF fangM eeuyM[6]
+Humans are most superb and worth more than any animal or beast. Do develop your academic expertise. Do not destroy or kill anyone. Do not be angry or execrate anyone. Practice forgiveness as you would good sportsmanship. Do behave under morals and rules. Speak and confer politely and with servility. (These phrases owned by The Computer Association of Thailand under the Royal Patronage of His Majesty the King)
+นายสังฆภัณฑ์ เฮงพิทักษ์ฝั่ง ผู้เฒ่าซึ่งมีอาชีพเป็นฅนขายฃวด ถูกตำรวจปฏิบัติการจับฟ้องศาล ฐานลักนาฬิกาคุณหญิงฉัตรชฎา ฌานสมาธิ[7][2]
+Mr.Sangkapan Hengpitakfang, an elderly man who sells bottles, was sued by police because he pilfered Lady Chatchada Chansamati's watch.
+Tibetan[edit]
+༈ དཀར་མཛེས་ཨ་ཡིག་ལས་འཁྲུངས་ཡེ་ཤེས་གཏེར། །ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན། །ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་བྱངས་མཐུས། །མ་ཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་གྱུར་ཅིག།
+Turkish[edit]
+Pijamalı hasta yağız şoföre çabucak güvendi. (38 letters, most common)
+The patient in pajamas quickly trusted the swarthy driver.
+Saf ve haydut kız çocuğu bin plaj görmüş. (33 letters)
+The naive and thuggish little girl has seen a thousand beaches.
+Öküz ajan hapse düştü yavrum, ocağı felç gibi. (37 letters)
+The ox agent landed in prison, my little one, where the furnace is like paralysis.
+Hayvancağız tüfekçide bagaj törpüsü olmuş. (37 letters)
+The poor animal has become a baggage file at the gunsmith's.
+Vakfın çoğu bu huysuz genci plajda görmüştü. (37 letters)
+Most of the religious endowment had seen the mean youth on the beach.
+Fahiş bluz güvencesi yağdırma projesi çöktü. (38 letters)
+The project of making fancy shirt guarantees rain collapsed.
+Ukrainian[edit]
+Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!
+Daughter, do you hear them, eh? Oh, you are funny! Say good-bye without knee-length socks.
+(with apostrophe sign) Жебракують філософи при ґанку церкви в Гадячі, ще й шатро їхнє п'яне знаємо.
+The philosophers beg near the porch of the church in Hadiach, and we even know their drunk tent.
+Urdu[edit]
+ٹھنڈ میں، ایک قحط زده گاؤں سے گذرتے وقت ایک چڑچڑے، باأثر وفارغ شخص کو بعض جلپری نما اژدہے نظر آئے۔ (Total 76 letters) — Ṫḣanḋ mēⁿ ēk qẹḥẹṭ zadah gā'ōⁿ sē gużartē waqt ēk čiṙčiṙē, bāʾas̱ar ō-fāriġ šaxṣ kō baʿⱬ jalparī numā aždahē naẓar ā'ē.
+In the cold, passing through an arid village, an irritable, influential and leisurely person saw some mermaid-like pythons.
+ژالہ باری میں ر‌ضائی کو غلط اوڑھے بیٹھی قرأة العین اور عظمٰی کے پاس گھر کے ذخیرے سے آناً فاناً ڈش میں ثابت جو، صراحی میں چائے اور پلیٹ میں زرده آیا۔
+Uyghur[edit]
+ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.
+Uyghur Latin Script: Awu bir jüp xoraz Fransiyening Parizh shehrige yëqin taghqa köchelmidi.
+
+Those two roosters were not able to move to the mountain near Paris in France.
+
+زۆھرەگۈل ئابدۇۋاجىت فرانسىيەنىڭ پارىژدىكى خېلى بىشەم ئوقۇغۇچى.
+Uyghur Latin Script: Zöhregül Abduwajit Fransiyening Parizhdiki xëli bishem oqughuchi.
+
+Zöhregül Abduwajit is a quite unpleasant student in Paris, France.
+
+Only letters with diacritical marks and other national specific letters[edit]
+A variant tries to make a word or phrase containing at least all letters with diacritical marks:
+
+Czech:
+Příliš žluťoučký kůň úpěl ďábelské ódy
+A horse which was too yellow moaned devilish odes
+Příšerně žluťoučký kůň úpěl ďábelské ódy
+Terribly yellow horse groaned devilish odes
+Hleď, toť přízračný kůň v mátožné póze šíleně úpí
+Lo! 'Tis a ghostlike horse in a feable pose groaning maddeningly
+Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů
+An exceptionally insidious pupil with dimples runs along the beehive zone
+Loď čeří kýlem tůň obzvlášť v Grónské úžině
+A ship is churning up water by the keel especially in the Strait of Greenland
+Ój, náhlý déšť teď zvířil prach a čilá laň běží s houfcem gazel k úkrytům.
+Oh, sudden rain has whirled dust now and a lively hind with a herd of gazelles is running to the shelters – only "foreign" letters q, w and x absents.
+Červený střízlíček a špinavá žlůva ďobali šťavnaté ocúny.
+Small red wren and a dirty oriole picked juicy autumn crocus.
+Danish:
+Ærøål
+Eel from the island Ærø
+Færøbåd
+A Faroese boat
+Kødpålæg
+Meats
+Smørepålæg
+Spreads
+Blåbærgrød
+Porridge from blue berries
+Lærerhåndbøger
+Handbooks for teachers
+Forårsjævndøgn
+Spring equinox
+Efterårsjævndøgn
+Autumn equinox
+Masseødelæggelsesvåben
+Weapons of mass destruction
+Esperanto: Eĥoŝanĝo ĉiuĵaŭde ("echo change every Thursday"), preskaŭ freŝa ĉeĥa manĝaĵo ("nearly fresh Czech food")
+German: Heizölrückstoßabdämpfung ("fuel oil recoil absorber") (which is also an isogram)
+Hungarian: árvíztűrő tükörfúrógép ("flood-proof mirror-drilling machine")
+Icelandic: Sævör grét áðan því úlpan var ónýt ("Sævör cried earlier because the jacket was ruined")
+Norwegian: Blåbærsyltetøy ("Blueberry jam")
+Polish: Zażółć gęślą jaźń ("make fiddle's ego yellow")
+Turkish: Şişli'de büyük çöp yığınları ("Large piles of garbage in Şişli")
+Slovak: Päťtýždňové vĺčatá nervózne štekajú na môjho ďatľa v tŕní. (Five weeks old wolf-cubs nervously bark at my woodpecker in a shrub.)
+Swedish: Räksmörgås ("Shrimp sandwich"), Ölälskaråsna ("Beer-loving donkey"), Läderfåtölj ("leather easy-chair"), Åland är österut, señor Müller ("Aaland Islands are Eastward, señor Müller")
