@@ -50,6 +50,10 @@ public class Search4JFileSearch {
 
 		log.debug("File search: " + model);
 
+		if (false == file.isFile() || false == file.canRead()) {
+			return;
+		}
+
 		BufferedReader br = null;
 
 		int lineNum = 0;

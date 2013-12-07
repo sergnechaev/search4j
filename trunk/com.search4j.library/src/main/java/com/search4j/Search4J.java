@@ -86,40 +86,38 @@ public class Search4J {
 	 *            - is used to inform the user about the statsus of the search
 	 *            operation.
 	 */
-	public void find(Search4JModel model, File folder, String encoding, boolean recursively‎, Search4JCancellationEvent cancellationEvent, Search4JProgressCallback progressCallback) {
+	public void find(final Search4JModel model, final File folder, final String encoding, final boolean recursively‎, final Search4JCancellationEvent cancellationEvent,
+			final Search4JProgressCallback progressCallback) {
 
 		if (false == recursively‎) {
+
 			for (File file : folder.listFiles()) {
-				if (file.isFile() && file.canRead()) {
-					find(model, file, encoding, cancellationEvent, progressCallback);
-				}
+				find(model, file, encoding, cancellationEvent, progressCallback);
 			}
+
 		} else {
 
 			FileUtils.iterateFilesAndDirs(folder, new IOFileFilter() {
 
 				@Override
 				public boolean accept(File dir, String name) {
-					System.out.println("ff dir: " + dir + ", name: " + name);
 					return true;
 				}
 
 				@Override
 				public boolean accept(File file) {
-					System.out.println("ff file: " + file);
+ 					find(model, file, encoding, cancellationEvent, progressCallback);
 					return true;
 				}
 			}, new IOFileFilter() {
 
 				@Override
 				public boolean accept(File dir, String name) {
-					System.out.println("df dir: " + dir + ", name: " + name);
 					return true;
 				}
 
 				@Override
 				public boolean accept(File file) {
-					System.out.println("df file: " + file);
 					return true;
 				}
 			});
