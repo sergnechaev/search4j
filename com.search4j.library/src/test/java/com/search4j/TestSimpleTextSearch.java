@@ -48,9 +48,8 @@ public class TestSimpleTextSearch extends TestCase {
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, false, false, false);
-			model.setText(read);
 
-			List<Search4JResult> find = new Search4J().find(model);
+			List<Search4JResult> find = new Search4J().find(model, read);
 
 			assertNotNull(find);
 			assertFalse(find.isEmpty());
@@ -75,9 +74,8 @@ public class TestSimpleTextSearch extends TestCase {
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, true, false, false);
-			model.setText(read);
 
-			List<Search4JResult> find = new Search4J().find(model);
+			List<Search4JResult> find = new Search4J().find(model, read);
 
 			assertTrue(find.isEmpty());
 
@@ -96,9 +94,8 @@ public class TestSimpleTextSearch extends TestCase {
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, false, true, false);
-			model.setText(read);
 
-			List<Search4JResult> find = new Search4J().find(model);
+			List<Search4JResult> find = new Search4J().find(model, read);
 
 			assertNotNull(find);
 
