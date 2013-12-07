@@ -26,7 +26,6 @@ package com.search4j.ui;
 import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.List;
 
 import junit.framework.TestCase;
 
@@ -63,6 +62,7 @@ public class TestFileTextSearch extends TestCase {
 		}
 
 	}
+
 	public void testMatchWholeWord() throws IOException, URISyntaxException {
 
 		File file = new File(this.getClass().getResource("/files/UTF-8.txt").toURI());
@@ -72,17 +72,16 @@ public class TestFileTextSearch extends TestCase {
 		for (String query : queries) {
 
 			Search4JModel model = new Search4JModel(query, true, false, false);
-			
+
 			SPC spc = new SPC();
 
 			new Search4J().find(model, file, "UTF-8", new Search4JCancellationEvent(), spc);
 
-//			assertTrue(find.isEmpty());
+			assertTrue(spc.getResult() == null);
 
 		}
 
 	}
-	/*
 
 	public void testMatchCase() throws IOException, URISyntaxException {
 
@@ -92,16 +91,17 @@ public class TestFileTextSearch extends TestCase {
 
 		for (String query : queries) {
 
-			Search4JModel model = new Search4JModel(query, false, false, false);
+			Search4JModel model = new Search4JModel(query, false, true, false);
 
 			SPC spc = new SPC();
 
 			new Search4J().find(model, file, "UTF-8", new Search4JCancellationEvent(), spc);
 
+			Search4JResult result = spc.getResult();
 
+			assertNull(result);
 		}
 	}
-*/
 
 	private static class SPC implements Search4JProgressCallback {
 
